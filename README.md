@@ -20,7 +20,8 @@ Documentation - `/tests` - Test files
 
 ## Git Commands Used
 
-## Features
+## Project Features
 
-- Calculator with basic operations
-- User authentication system
+- Mathematical calculator module with basic operations
+- Secure user authentication and login system
+- Application logging functionality
