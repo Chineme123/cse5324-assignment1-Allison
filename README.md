@@ -19,3 +19,9 @@ This repository demonstrates fundamental Git operations including branching, mer
 Documentation - `/tests` - Test files
 
 ## Git Commands Used
+
+## Project Features 
+
+- Mathematical calculator module
+- Secure usert login system
+- Logging functionality
